@@ -1,0 +1,10 @@
+article {
+  display: flex;
+  justify-content: space-evenly;
+}
+article > form {
+  max-width: 50vw;
+}
+article > div {
+  width: 30vw;
+}
